@@ -20,3 +20,6 @@ Python – Programming language used to build the application.
 Tkinter – Python library used to build the graphical user interface (GUI).
 
 API (QR code generation) – Used for generating the QR code based on the provided URL.
+
+Goal of the Project:
+The project demonstrates the use of Python programming, API integration, and GUI development to solve a practical problem—creating QR codes from URLs. It was designed as a hands-on project to apply concepts learned in Python programming and GUI development.
